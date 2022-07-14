@@ -1,0 +1,5 @@
+### Impeachment
+President - can - removed - by impeachment - "violation of Constitution"- In Constitution - there is no meaning - Impeachment - can be passed - either of house of parliament - To pass - 1/6 of total votes of that house - 14 day notice issued - President - has to appear and represent the impeachment - it is investigated by the other house - If the other house vote for the 2/3 of majority against president - he will detained - once the bill has been passed in the other house. Impeachment - Quasi judicial procedure - two things
+
+1. ==nominated member of both house can take in impeachment - but - they are not included in election of president==
+2. ==member of legislative assemblies of state  and Union territory cannot take part in impeachment - but they are included  in election of president.==

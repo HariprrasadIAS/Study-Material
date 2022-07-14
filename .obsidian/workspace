@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "292a58c17c3c3cd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c71183ee12f0ae64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Electing President.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8c16b20f9a97be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8abbd7fb0343f491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15c7eebef8f07e8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d24b5e38757a5764",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "eb97b9b08f3f807c",
+    "type": "split",
+    "children": [
+      {
+        "id": "45655365d15e08f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b120c28c8285856f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdef4a803f0c120f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Electing President.md"
+              }
+            }
+          },
+          {
+            "id": "f13054074cec7838",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8d0ce46de23fda1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3082b9994002fd54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Electing President.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 186.5,
+    "collapsed": true
+  },
+  "active": "c71183ee12f0ae64",
+  "lastOpenFiles": [
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/President.md",
+    "Absolute Veto.md",
+    "Pocket Veto.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Veto Power of President.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Historical Background.md",
+    "Suspense Veto.md",
+    "Qualified Veto.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Longer Notes.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Extra Notes/Veto.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Emergency Power.md"
+  ]
+}

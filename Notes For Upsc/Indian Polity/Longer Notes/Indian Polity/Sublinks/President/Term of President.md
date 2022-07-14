@@ -1,0 +1,2 @@
+### Term of President
+the date - enters office - 5 years - resign - anytime - giving - letter - #Vice-President - Or - dismissed - by impeachment. Can hold - office - beyond term - successor - not taken charge. Can - take as many election - he want- In USA - he can be president for 2 times.

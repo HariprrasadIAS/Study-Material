@@ -1,0 +1,1 @@
+Meaning - a constitutional right to reject a decision or proposal made by a lawmaking body
