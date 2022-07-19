@@ -1,2 +1,2 @@
 ### Nomination: 
-should - atleast 50 electors as proposer - 50 electors as seconders - Security Deposit 15000 in RBI - forfeited incase - failed - secure one-sixth of voters - before 1997 - 50 electors for proposer and seconders - 2500 deposit.
+should - atleast 50 electors as proposer - 50 electors as seconders - Security Deposit 15000 in RBI - forfeited incase - failed - secure one-sixth of voters - before 1997 - 10 electors for proposer and seconders - 2500 deposit.

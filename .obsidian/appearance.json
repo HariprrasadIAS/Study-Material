@@ -3,7 +3,7 @@
   "textFontFamily": "Arial",
   "interfaceFontFamily": "Arial",
   "monospaceFontFamily": "Arial",
-  "cssTheme": "Things",
-  "theme": "moonstone",
-  "baseFontSize": 14
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "baseFontSize": 15
 }

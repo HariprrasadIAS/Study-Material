@@ -38,5 +38,23 @@
       ],
       "key": "Tab"
     }
+  ],
+  "obsidian-day-planner:app:show-day-planner-today-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-day-planner:app:show-day-planner-timeline": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }
