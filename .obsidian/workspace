@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/President.md",
+            "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 3.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/President.md"
+                "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 3.md"
               }
             }
           },
@@ -107,19 +107,18 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/President.md",
+                "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "ee019b5c0a0b9e53",
@@ -137,20 +136,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "active": "989b74621f91b25f",
   "lastOpenFiles": [
-    "NCERT/Class 6/Geography/fess2ps.pdf",
+    "Notes For Upsc/NCERT/Class 6/History/Chapter 2.md",
+    "Notes For Upsc/NCERT/Class 6/History/Chapter 1.md",
     "Notes For Upsc/NCERT/Must read booklist.md",
     "Notes For Upsc/NCERT/Class 6/History/Chapter 3.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/President.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Pardoning Power Of President.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Historical Background.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Constitutional Position of President.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Extra Notes/Assemblies vs Council.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Power and Function.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Presidential Veto over State Legislation.md"
+    "Snip/Pasted image 20220715195213.png",
+    "Notes For Upsc/Indian Polity/Kamban Board Notes/Kamban Board Notes.md",
+    "Article 352.md",
+    "Article 161.md",
+    "Article 75.md",
+    "Article 74.md"
   ]
 }

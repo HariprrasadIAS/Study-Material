@@ -26,7 +26,4 @@ Article 52-78 - deals - #Union_executive - Consists - 5 members.
 12. [[Vacancy]] 
 13. [[Power and Function]]
 14. [[Veto Power of President]]
-15. [[Presidential Veto over State Legislation]]
-16. [[Ordinance Making power of President]]
-17. [[Pardoning Power Of President]]
-18. [[Constitutional Position of President ]]
+15. 
