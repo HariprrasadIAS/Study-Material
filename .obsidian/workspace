@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4633beff82da5e5",
+        "id": "fc03a52c258cacc0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Vice President.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -80,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Vice President.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Vice President.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +131,17 @@
     "width": 359.5,
     "collapsed": true
   },
-  "active": "c4633beff82da5e5",
+  "active": "15c7eebef8f07e8e",
   "lastOpenFiles": [
-    "Indian VC VS American VC.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Articles/Article 53.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Executive Power.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Power and Function.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/President.md",
     "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Vice President.md",
-    "Power and Function of Vice President.md",
-    "Election Dispute.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Indian VC VS American VC.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Power and Function of Vice President.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Election Dispute.md",
     "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Vacancy of Vice President.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Term of office.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Condition of Office.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Oath for Vice President.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Qualification of Vice President.md",
-    "Emoluments.md"
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Term of office.md"
   ]
 }

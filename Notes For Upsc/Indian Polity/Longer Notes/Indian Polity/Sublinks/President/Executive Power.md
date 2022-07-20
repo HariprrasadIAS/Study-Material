@@ -1,4 +1,5 @@
 ### Executive Power
+[[Article 53]]
 
 1. all executive action of government - done - formally under name of #President 
 2. make  rules - specifying - manner - in which order and other instruments - made and executed- in his name - authenticated.
