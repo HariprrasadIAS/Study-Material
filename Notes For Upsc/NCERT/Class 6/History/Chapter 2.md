@@ -32,7 +32,7 @@ To store the seed - made large clay pots - woven basket - dug pit in ground. Ani
 Blue squares in map of evidence. show the first farmer and herders. Burnt grain was found -  important discovery. Huts and Houses are found. #Burzahom - pit is found - with steps leading downward - for  winter weather. some sites - cooking hearth - both inside and outside the house. Stone tools different from #Palaleolithic - from #Neolithic - polished to make fine cut
 mortars (==small ammi==) and pestles(same as mortars). In #Neolithic - #Palaleolithic tools are also made. they were not stopped. started using pots - cooking and storing. started weaving clothes using cotton they grown.
 ## Mehrgarh
-site is located near #bolan-pass - one of the route to Iran. This is site - probably first farmer and herders were found. Earliest village that we know. Rectangular and squared house used for storing food. Burial ground was found. 
+#Mehrgarh site is located near #bolan-pass - one of the route to Iran. This is site - probably first farmer and herders were found. Earliest village that we know. Rectangular and squared house used for storing food. Burial ground was found. 
 ## Question
 
 ![[Pasted image 20220718222605.png]]
