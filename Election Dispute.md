@@ -1,0 +1,2 @@
+# Election Dispute
+Dispute In election - will be - handled by Supreme Court - decision is final. Election of #Vice-President - cannot be challenged - if electoral college is incomplete. If supreme court declare - election void - acts done by the person before to that date - will remain in force.

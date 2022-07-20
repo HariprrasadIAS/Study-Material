@@ -1,0 +1,3 @@
+# Term of Office
+holds office for 5 years - resign on giving it to president - he can be removed - No formal #impeachment is required - Resolution - passed in #Rajya-Sabha  with absolute majority - accepted by #Lokh-Sabha. However - atleast 14 days prior notice - to be given. No Ground -mentioned - in Constitution (==Can be removed for any reason==)
+hold office beyond - till successor - assume in charge. Run for any number of times of election. Can be #Vice-President for any number of terms.

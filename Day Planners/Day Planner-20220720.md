@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 11:00:59 PM
+    %% Current Time: 11:59:58 PM
     section Tasks
     President  till Ordinance Making power of the President     :04-30, 60mm
     Percentage 2 30 question complete     :05-45, 60mm

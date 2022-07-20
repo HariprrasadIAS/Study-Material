@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8784d4a18644f2f",
+        "id": "c4633beff82da5e5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Vice President.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 214.5
   },
   "right": {
     "id": "eb97b9b08f3f807c",
@@ -75,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Vice President.md"
+              }
             }
           },
           {
@@ -100,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Vice President.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +139,17 @@
     "width": 359.5,
     "collapsed": true
   },
-  "active": "e8784d4a18644f2f",
+  "active": "c4633beff82da5e5",
   "lastOpenFiles": [
-    "Notes For Upsc/NCERT/Class 6/History/Chapter 2.md",
-    "Notes For Upsc/NCERT/Class 6/History/Chapter 3.md",
-    "Snip/Pasted image 20220720133303.png",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Constitutional Position of President.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/President.md",
-    "Notes For Upsc/Daily Notes/20-07-22.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/President/Veto Power of President.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Historical Background.md",
-    "Day Planners/Day Planner-20220720.md",
-    "Day Planners/Day Planner-20220715.md"
+    "Indian VC VS American VC.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Vice President.md",
+    "Power and Function of Vice President.md",
+    "Election Dispute.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Vacancy of Vice President.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Term of office.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Condition of Office.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Oath for Vice President.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Vice President/Qualification of Vice President.md",
+    "Emoluments.md"
   ]
 }
