@@ -19,6 +19,6 @@ October 1997 - President #K-R-Narayanan - cabinet asked to impose - Presidential
 ## Situational Discretion:
 President can act on his own in following situation
 
-1. Appointment of #Prime-Minister - no majority in #Lokh-Sabha or died - there no successor
+1. Appointment of #Prime-Minister - no majority in #Lokh-Sabha or died - there no successor - #personal-discretion 
 2. Dismissal of #Council-of-Minister - cannot prove the confidence of #Lokh-Sabha 
 3. Dissolution of #Lokh-Sabha - #Council-of-Minister lost majority.

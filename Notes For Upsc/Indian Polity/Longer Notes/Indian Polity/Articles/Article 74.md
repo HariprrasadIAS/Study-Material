@@ -1,0 +1,2 @@
+# Article 74:
+#Council-of-Minister - headed by #Prime-Minister - aid and advices #President  - exercising function - act accordingly. President - ask - #Council-of-Minister - to reconsider. Should  act - accordingly - after such reconsideration.

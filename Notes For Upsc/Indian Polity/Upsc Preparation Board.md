@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Governor
 - [ ] Emergency Provisions
+- [ ] Governor
 
 
 ## In Progress
@@ -17,6 +17,7 @@ kanban-plugin: basic
 ## Completed
 
 - [x] [[President 1]] @{18-07-22}
+- [x] Prime Minister @{21-07-22}
 - [x] [[Notes For Upsc/Indian Polity/Kamban Board Notes/Vice President]] @{20-07-22}
 
 
