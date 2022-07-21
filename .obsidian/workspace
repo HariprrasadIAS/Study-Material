@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "949471d2083f8011",
+        "id": "21de0e610cbca268",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 4.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mehrgarh",
+                "query": "tag:#RigVeda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -75,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 4.md"
+              }
             }
           },
           {
@@ -100,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +140,7 @@
     "width": 359.5,
     "collapsed": true
   },
-  "active": "15c7eebef8f07e8e",
+  "active": "21de0e610cbca268",
   "lastOpenFiles": [
     "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Prime Minister.md",
     "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Prime Minister/Appointment.md",
