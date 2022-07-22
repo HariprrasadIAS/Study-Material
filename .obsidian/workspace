@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "21de0e610cbca268",
+        "id": "dcc6697b94e15526",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 4.md",
+            "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Governor.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 4.md"
+                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Governor.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 4.md",
+                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Governor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +139,17 @@
     "width": 359.5,
     "collapsed": true
   },
-  "active": "21de0e610cbca268",
+  "active": "dcc6697b94e15526",
   "lastOpenFiles": [
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Prime Minister.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Prime Minister/Appointment.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Prime Minister/Chief Minister become Prime minister.md",
-    "Notes For Upsc/Indian Polity/Upsc Preparation Board.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Articles/Article 78.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Articles/Article 75.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Articles/Article 74.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Articles/Article 53.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Prime Minister/Other powers and function.md",
-    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Sublinks/Prime Minister/Power and Function of Prime Minister.md"
+    "State Government Archives.md",
+    "Notes For Upsc/Modern Indian History/Longer Notes/Sublinks/Source for History/Archives.md",
+    "Notes For Upsc/Modern Indian History/Longer Notes/Source for History of Modern India.md",
+    "Notes For Upsc/Modern Indian History/Longer Notes/Sublinks/Source for History/Central Government Archives.md",
+    "Notes For Upsc/NCERT/Class 6/History/Chapter 4.md",
+    "Notes For Upsc/NCERT/Class 6/History/Chapter 2.md",
+    "Snip/Pasted image 20220720133324.png",
+    "Snip/Pasted image 20220720133303.png",
+    "Snip/Pasted image 20220718222628.png",
+    "Snip/Pasted image 20220720101605.png"
   ]
 }
