@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dcc6697b94e15526",
+        "id": "cc74258954211c43",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Governor.md",
+            "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 5.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Governor.md"
+                "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 5.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Governor.md",
+                "file": "Notes For Upsc/NCERT/Class 6/History/Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +139,17 @@
     "width": 359.5,
     "collapsed": true
   },
-  "active": "dcc6697b94e15526",
+  "active": "cc74258954211c43",
   "lastOpenFiles": [
-    "State Government Archives.md",
-    "Notes For Upsc/Modern Indian History/Longer Notes/Sublinks/Source for History/Archives.md",
-    "Notes For Upsc/Modern Indian History/Longer Notes/Source for History of Modern India.md",
-    "Notes For Upsc/Modern Indian History/Longer Notes/Sublinks/Source for History/Central Government Archives.md",
-    "Notes For Upsc/NCERT/Class 6/History/Chapter 4.md",
-    "Notes For Upsc/NCERT/Class 6/History/Chapter 2.md",
-    "Snip/Pasted image 20220720133324.png",
-    "Snip/Pasted image 20220720133303.png",
-    "Snip/Pasted image 20220718222628.png",
-    "Snip/Pasted image 20220720101605.png"
+    "Notes For Upsc/NCERT/Must read booklist.md",
+    "Appointment of Governor.md",
+    "Notes For Upsc/Indian Polity/Longer Notes/Indian Polity/Governor.md",
+    "Article 352&365.md",
+    "Article 352.md",
+    "Article 123.md",
+    "Article 72.md",
+    "Article 76.md",
+    "Article 360.md",
+    "State Government Archives.md"
   ]
 }
